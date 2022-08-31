@@ -20,7 +20,7 @@ const HowRequest = () => {
           Can't Understand
           <br /> How to Request Prayer?
         </Title>
-        <p className="font-primary text-[1rem] text-white font-normal mb-8 opacity-80 mr-10 tracking-wider">
+        <p className="font-primary text-[1rem] text-white font-normal mb-8 opacity-80 lg:mr-10 tracking-wider">
           As-salaamu 'alaukum and welcome <br />
           Thank you for your confidence in our website and for contacting us
           Steps 1-3 need only be completed the first time, when requesting your
