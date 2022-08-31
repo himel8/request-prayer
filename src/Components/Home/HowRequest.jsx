@@ -13,7 +13,7 @@ const HowRequest = () => {
   return (
     <div className="flex justify-center items-center gap-12 min-h-screen flex-wrap custom1329:flex-nowrap my-12">
       <div className="">
-        <img src={Img} alt="" className="w-[85%]" />
+        <img src={Img} alt="" className="w-[85%] custom-animation" />
       </div>
       <div className="w-full md:w-[60%] text-center custom1329:text-left">
         <Title>
@@ -42,7 +42,7 @@ const HowRequest = () => {
           ))}
         </div>
         <div className="flex justify-center custom1329:justify-start items-center mt-12">
-          <div className="border border-[#1cd1b5] px-6 py-3 rounded-3xl bg-gradient-to-r from-[#00d6d8] to-[#00a9d5] hover:scale-110 transform transition-all ease-in-out duration-500">
+          <div className="border border-[#1cd1b5] px-6 py-3 rounded-3xl bg-gradient-to-r from-[#00d6d8] to-[#00a9d5] hover:scale-110 transform transition-all ease-in-out duration-500 custom-btn-animation">
             <a
               href="#!"
               className="text-white font-primary text-[1rem] tracking-wider"

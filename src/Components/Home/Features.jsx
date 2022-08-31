@@ -46,7 +46,7 @@ const Features = () => {
         </div>
       </div>
       <div className="">
-        <img src={Img} alt="" className="w-full" />
+        <img src={Img} alt="" className="w-full custom-animation" />
       </div>
     </section>
   );

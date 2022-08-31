@@ -21,7 +21,7 @@ const PrayerSection = () => {
   return (
     <section className="flex justify-center items-center gap-12 min-h-screen py-12 flex-wrap">
       <div>
-        <img src={Img} alt="" />
+        <img src={Img} alt="" className="custom-animation w-full" />
       </div>
       <div className="w-full md:w-1/2 custom1105:text-left text-center">
         <Title>Every Muslim Should Pray/ Dua to Allah</Title>
